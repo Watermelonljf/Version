@@ -1,0 +1,35 @@
+
+#ListBody .gradeX .sorting_1 {
+text-align:center;
+}
+#ListBody .gradeX img {
+max-width:55px;
+max-height:55px;
+}
+#citytree .tree .selected {
+background-color:rgb(128, 128, 128);
+}
+.dropdown-menu.extended li div{
+  padding: 10px;
+  margin: 0px;
+  list-style: none;
+  border-bottom: 1px solid #f4f4f4 !important;
+  font-size: 12px;
+  text-shadow: none;
+}
+
+.setadmin .badge {
+        position: relative;
+        font-family: 'Open Sans';
+        font-size: 11px !important;
+        font-weight: 300;
+        top: -15px;
+        right: -15px;
+        padding: 3px 7px 3px 7px;
+        color: white !important;
+        text-shadow: none;
+        border-width: 0;
+        border-style: solid;
+        border-radius:12px !important;
+        -webkit-border-radius: 12px !important;
+}
